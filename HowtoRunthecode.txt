@@ -1,0 +1,9 @@
+Open Terminal on the folder.
+Move to `storecam`
+`pip install` all requirements from main.py file
+Run `python main.py`
+This should start a camera. Now move back and move around, you should observer a heatmap of your movement.
+Ideally, it runs on Raspberry Pi with camera and placed in a front-facing manner at a height.
+
+The folder named `dashboard` contains the view for the user where all the analytics are displayed.
+Just double click the html file and it should open in a browser.
